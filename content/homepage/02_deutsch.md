@@ -1,5 +1,5 @@
 ---
-title: "Alle Infos auf Deutsch"
+title: "Infos auf Deutsch"
 weight: 4
 header_menu: true
 ---
