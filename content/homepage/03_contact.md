@@ -5,5 +5,4 @@ header_menu: true
 ---
 {{<contact_list>}}
 
-Let us get in touch!
-[¡Contacta conmigo por correo!](conversaconmax@gmail.com) (en alemán, español, francés, italiano, inglés...)
+[¡Contacta conmigo por correo!](mailto:conversaconmax@gmail.com?subject=¡Hola!) (en alemán, español, francés, italiano, inglés...)

@@ -1,9 +1,13 @@
 :root {
+    /* flyer colors
+    /* eb3389
+    /* 0061a5 
+    /*f29725
 
     /* === Cover / Landing area === */
     --cover-text-color: #000000;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: gray;
+    --highlight: #e789b5;
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
@@ -15,35 +19,35 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: var(--section-dark-bg-color);
+    --sticky-menu-text-color: var(--highlight);
 
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #3a4145;
+    --section-light-text-color: var(--cover-text-color);
     /* Light section - background color */
-    --section-light-bg-color: white
+    --section-light-bg-color: #fdc886
 ;
 
     /* Dark section - text color */
-    --section-dark-text-color: var(--section-light-text-color);
+    --section-dark-text-color: var(--cover-text-color);
     /* Dark section - background color */
-    --section-dark-bg-color: gray;
+    --section-dark-bg-color: #5f89a6a2;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-    --section-uni-quote: gray;
+    --section-uni-quote: #5f88a6;
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
-    --section-uni-code-bg-color: #fee95dc5;
+    --section-uni-code-bg-color: #e789b588;
 
     /* === Single pages=== */
     --single-page-text-color: var(--section-light-text-color);
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #22343a;
+    --footer-color-background: var(--cover-text-color);
     --footer-color: #bbc7cc;
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */
-    --ul-li-icon: fa-asterisk;
+    --ul-li-icon: ;
 }

@@ -9,13 +9,11 @@ Habiendo estudiado lingüística conozco bien las distintas variedades del espa�
 
 Además de mi pasión por el español también me cualifican los siguientes puntos para estarte ayudando en tu aprendizaje:
 - tengo un diploma DELE C2 emitido por el Instituto Cervantes 
-- vivo en un país donde se habla español
-- hablo español en mi trabajo
-- hablo español con mis amigos
+- español es el idioma que más uso en mi día a día
 - he leido un sinfin de libros en español, visto un montón de peliculas en español, escuchado miles de canciones en español...
 
 y ***lo más importante***
-- también `he tenido que estudiar muchas horas` para llegar al nivel que tengo ahora y `tengo muchos consejos que darte`
+- también `estudié muchas horas` para llegar a mi nivel de español por lo cual `tengo muchas recomendaciones acerca de cómo estudiar mejor que puedo compartire`
 - habiendo vivido tanto en México como en España, `entiendo las diferencias culturales entre Suiza y el mundo hispano` y te puedo ayudar a navegarlas
 
 
