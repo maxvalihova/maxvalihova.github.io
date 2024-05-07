@@ -2,4 +2,4 @@
 languageCode = 'es'
 title = '¡Conversa con Max!'
 [params]
-    favicon = static/images/favicon.png
+    favicon = 'static/images/favicon.png'
