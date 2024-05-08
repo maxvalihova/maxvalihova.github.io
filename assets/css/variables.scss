@@ -7,10 +7,13 @@
     /* === Cover / Landing area === */
     --cover-text-color: #000000;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #e789b5;
+    // --highlight: #e789b5;
+    // --highlight: #0162a6;
+    --highlight: #f29627;
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
-    --highlight-inverse: var(--cover-text-color);
+    // --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse: white;
     --highlight-inverse-contrast: white;
 
     /* visual guard around title and description, when the feature is enabled */
@@ -19,32 +22,34 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: var(--highlight);
+    --sticky-menu-text-color: #0162a6;
 
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
     --section-light-text-color: var(--cover-text-color);
     /* Light section - background color */
-    --section-light-bg-color: #fdc886
+    // --section-light-bg-color: #fdc886
+    --section-light-bg-color: white
 ;
 
     /* Dark section - text color */
     --section-dark-text-color: var(--cover-text-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #9dcaeb;
+    --section-dark-bg-color: #e1eff9;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-    --section-uni-quote: #5f88a6;
+    // --section-uni-quote: #5f88a6;
+    --section-uni-quote: #015088;
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
-    --section-uni-code-bg-color: #e789b588;
+    --section-uni-code-bg-color: rgba(255, 242, 0, 0.505);
 
     /* === Single pages=== */
     --single-page-text-color: var(--section-light-text-color);
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: var(--cover-text-color);
+    --footer-color-background: #0162a6;
     --footer-color: #bbc7cc;
 
     /* === Lists === */

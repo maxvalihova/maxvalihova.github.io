@@ -14,8 +14,6 @@ Feature notice: This section displays options to customize title:
 
 That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website. -->
 
----
-### Contenido de las clases
 **¿Qué es una clase conversacional?**
 
 Es un tipo de clase que se enfoca en `trabajar las habilidades de expresión oral`. La idea es alejarse de los libros de gramática y tratar las dudas gramaticales mediante otros recursos, por ejemplo, diseñando dialogos, identificando temas gramaticales en noticias, programas de radio, reportajes, canciones etc. 
@@ -40,8 +38,6 @@ Podemos tratar cualquier tema que a ti te interese y cambiar el contenido de las
 **¿Qué tipo de recursos usaremos en las clases conversacionales?**
 
 Podemos ampliar el contenido de las clases con recursos como emisiones de ``radio`` o ``podcasts``, programas de ``televisión``, ``libros``, ``canciones``, ``prensa`` y mucho más.
-
----                
 
 ### Modalidad
 Podemos conectarnos por cualquier plataforma de videollamada para tener las clases. Podemos utilizar la plataforma que a ti más te guste. Por ejemplo, ``Microsoft Teams, Zoom, Skype, Videollamada por Whatsapp, Telegram o Signal, o Google Meets``
