@@ -13,7 +13,7 @@ body {
   font-size: 2rem;
   line-height: 1.6em;
   color: var(--section-light-text-color);
-  text-align: justify;
+//   text-align: justify;
 }
 
 ::-moz-selection {
@@ -76,6 +76,7 @@ h6 {
 
 p{
   margin: 1em 0;
+  text-align: justify;
 }
 
 /** ======== Links ========= */
@@ -117,18 +118,18 @@ dl {
     }
 }
 
-// ul, ol {
-//     margin: 1em 0;
+ul, ol {
+    // margin: 1em 0;
 
-//     // Second level of lists
-//     ol, ul {
-//         margin: 0.em 0;
-//     }
-// }
+    // // Second level of lists
+    // ol, ul {
+    //     margin: 0.2em 0;
+    // }
+}
 
-// li {
-//   margin-left: 30px;
-// }
+li {
+//   margin-left: 5px;
+}
 
 /** ======== Content semantics ============= */
 hr {
@@ -150,9 +151,11 @@ hr {
 blockquote {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 1em 0 1em -2.2em;
+    margin: 1em 0 1em 1em;
     padding: 0 0 0 1em;
     color: var(--section-uni-quote);
+    text-align: justify;
+    font-size: medium;
 
     p {
         margin: 0.8em 0;

@@ -13,7 +13,7 @@ Además de mi pasión por el español también me cualifican los siguientes punt
 - he leido un sinfin de libros en español, visto un montón de peliculas en español, escuchado miles de canciones en español...
 
 y ***lo más importante***
-- también `estudié muchas horas` para llegar a mi nivel de español por lo cual `tengo muchas recomendaciones acerca de cómo estudiar mejor que puedo compartire`
+- también `estudié muchas horas` para llegar al nivel de español que tengo ahora, por lo cual `tengo muchas recomendaciones acerca de cómo estudiar mejor que puedo compartirte`
 - habiendo vivido tanto en México como en España, `entiendo las diferencias culturales entre Suiza y el mundo hispano` y te puedo ayudar a navegarlas
 
 

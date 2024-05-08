@@ -26,7 +26,7 @@ El objetivo didáctico de este tipo de clases es mejorar la fluidez al hablar, a
 
 **¿Qué temas trateremos en las clases conversacionales?**
 
-Podemos tratar cualquier tema que a ti te interese y ajustar el contenido de las clases a tus necesidades. Te pongo algunos ejemplos de cómo podría ser el contenido de una clase:
+Podemos tratar cualquier tema que a ti te interese y cambiar el contenido de las clases según tus necesidades. Te pongo algunos ejemplos de cómo podría ser el contenido de una clase:
 
 | | |
 |:---|:---|
@@ -44,8 +44,7 @@ Podemos ampliar el contenido de las clases con recursos como emisiones de ``radi
 ---                
 
 ### Modalidad
-Podemos contectarnos por cualquier plataforma de videollamada para tener las clases. Podemos utilizar la plataforma que a ti más te guste. 
-    Por ejemplo, ``Microsoft Teams, Zoom, Skype, Videollamada por Whatsapp, Telegram o Signal, o Google Meets``
+Podemos conectarnos por cualquier plataforma de videollamada para tener las clases. Podemos utilizar la plataforma que a ti más te guste. Por ejemplo, ``Microsoft Teams, Zoom, Skype, Videollamada por Whatsapp, Telegram o Signal, o Google Meets``
 
 ### Precio
 El coste de las clases es de ``25 CHF por una clase de 60 minutos``. La clase es individual y vamos a poder ajustar el contenido según tus intereses y necesidades.
