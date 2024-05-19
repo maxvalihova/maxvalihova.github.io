@@ -1,5 +1,3 @@
 baseURL = 'https://conversaconmax.com/'
 languageCode = 'es'
 title = '¡Conversa con Max!'
-[params]
-    favicon = 'static/images/favicon.png'
